@@ -15,16 +15,18 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
-    [super viewDidLoad];
 
-    // Do any additional setup after loading the view, typically from a nib.
+
+    // Do any additional setup before heheh loading the view, typically from a nib.
     
-    NSLog(@"This is change");
+    NSLog(@"This is FAREDAAAAAAAAAA change");
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+    NSLog(@"This is FAREDAAAAAAAAAA change");
+
 }
 
 @end

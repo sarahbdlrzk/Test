@@ -20,6 +20,8 @@
     // Do any additional setup before heheh loading the view, typically from a nib.
     
     NSLog(@"This is FAREDAAAAAAAAAA change");
+    NSLog(@"This is change");
+    NSLog(@"This is another change sarah");
 }
 
 - (void)didReceiveMemoryWarning {
